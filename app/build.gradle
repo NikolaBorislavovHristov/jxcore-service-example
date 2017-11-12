@@ -13,4 +13,5 @@ android {
 
 dependencies {
     implementation 'com.android.support:appcompat-v7:26.1.0'
+    implementation 'com.github.NikolaBorislavovHristov:jxcore-android-sdk:master-SNAPSHOT'
 }
